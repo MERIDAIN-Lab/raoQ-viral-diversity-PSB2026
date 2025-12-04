@@ -1,5 +1,5 @@
 # Benchmarking Rao’s Q for Evolution-Aware Viral α-Diversity  
-**Pacific Symposium on Biocomputing (PSB) 2025 – Poster Repository**  
+**Pacific Symposium on Biocomputing (PSB) 2026 – Poster Repository**  
 
 **Authors**  
 Florencia Martino, Kakhangchung Panmei, Dylan Duchen, David L. Thomas, Abraham J. Kandathil, Steven J. Clipman  
@@ -11,7 +11,7 @@ Florencia Martino, Kakhangchung Panmei, Dylan Duchen, David L. Thomas, Abraham J
 ---
 
 ## Overview
-This repository contains the analysis code, and reproducible workflows associated with the PSB 2025 poster titled:
+This repository contains the analysis code, and reproducible workflows associated with the PSB 2026 poster titled:
 
 > **“Benchmarking Rao’s Q as a Reproducible, Quantitative, Evolution-Aware Metric of Viral α-Diversity for Metagenomic Data.”**
 
@@ -35,7 +35,7 @@ The repository is organized as follows:
   Exported figures used in the poster (PDF/PNG/SVG).
 
 - `poster/`  
-  PDF version and abstract file of the PSB 2025 poster.
+  PDF version and abstract file of the PSB 2026 poster.
 
 ---
 
